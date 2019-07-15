@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DemoMVP</string>
+    <string name="txt_word">Word searching</string>
+    <string name="msg_found">Found</string>
+    <string name="msg_not_found">Not Found</string>
+    <string name="msg_no_input">You input nothing</string>
+    <string name="msg_exist">Already exist</string>
 </resources>
